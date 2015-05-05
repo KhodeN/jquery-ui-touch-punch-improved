@@ -5,6 +5,7 @@
   "authors": [
     "Chris Hutchinson <chris@brushd.com>"
   ],
+  "main": "jquery.ui.touch-punch-improved.js",
   "description": "Touch Event Support for jQuery UI",
   "main": "jquery.ui.touch-punch-improved.js",
   "keywords": [
